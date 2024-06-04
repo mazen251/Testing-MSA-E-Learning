@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Faculty Of Computer Science_icon</name>
+   <tag></tag>
+   <elementGuidId>a3f0fee6-97f9-42a9-814e-58ea557eac62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-link.btn-icon.icon-size-3.coursemenubtn.dropdown-toggle > img.icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-container-0']/div/div/div/div[2]/div/div/button/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Actions for current course Advanced web programming&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ae8e1335-4529-420f-a10c-4ed6c08716f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon </value>
+      <webElementGuid>077ec67c-a63a-4a15-a62e-ec90f419659d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://e-learning.msa.edu.eg/theme/image.php/lambda/core/1717478948/i/moremenu</value>
+      <webElementGuid>4b9936f6-169b-4692-94d3-b4c1bd644c29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4bef9e24-9145-4c29-9594-b03aed3db18b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-container-0&quot;)/div[1]/div[@class=&quot;card-deck dashboard-card-deck&quot;]/div[@class=&quot;card dashboard-card&quot;]/div[@class=&quot;d-flex align-items-start&quot;]/div[@class=&quot;card-footer dashboard-card-footer menu border-0 bg-white ml-auto&quot;]/div[@class=&quot;ml-auto dropdown&quot;]/button[@class=&quot;btn btn-link btn-icon icon-size-3 coursemenubtn dropdown-toggle&quot;]/img[@class=&quot;icon&quot;]</value>
+      <webElementGuid>f72e7bcc-37aa-4e85-b6d9-32d427eeff18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-container-0']/div/div/div/div[2]/div/div/button/img</value>
+      <webElementGuid>97ed9dde-bdb8-47d5-9c38-c9448201828f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://e-learning.msa.edu.eg/theme/image.php/lambda/core/1717478948/i/moremenu')]</value>
+      <webElementGuid>ca477d0c-0389-4b59-85f3-a1781a618321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div[2]/div/div/button/img</value>
+      <webElementGuid>e7834a0b-cbef-4dfd-9741-164be709ecd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://e-learning.msa.edu.eg/theme/image.php/lambda/core/1717478948/i/moremenu']</value>
+      <webElementGuid>e49c7c01-f52d-45b7-92a5-9fe9ed66bf0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

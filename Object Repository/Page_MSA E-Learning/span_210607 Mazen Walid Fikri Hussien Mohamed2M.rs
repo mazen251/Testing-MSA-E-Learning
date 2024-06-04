@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_210607 Mazen Walid Fikri Hussien Mohamed2M</name>
+   <tag></tag>
+   <elementGuidId>b7a9aba9-e554-43ee-80bd-0d8c6a60f689</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.userbutton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='action-menu-toggle-0']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;User menu&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>47078f8f-9235-4eda-a754-4537ad9664a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>userbutton</value>
+      <webElementGuid>5bb65f28-b42c-4063-a7db-68b0d88743ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>210607 Mazen Walid Fikri Hussien Mohamed2M</value>
+      <webElementGuid>ec73dab2-9afa-406a-801f-c5fce50aa556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;action-menu-toggle-0&quot;)/span[@class=&quot;userbutton&quot;]</value>
+      <webElementGuid>ae61ac7b-2526-4341-bdda-4614d6ff0d9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='action-menu-toggle-0']/span</value>
+      <webElementGuid>74f0e26b-9ce4-4b34-ba7a-b03d457d161c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='There are 0 unread conversations'])[1]/following::span[2]</value>
+      <webElementGuid>f0a4f7e1-455d-41a0-87ac-c3b67be6d5ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See all'])[1]/following::span[4]</value>
+      <webElementGuid>c7a9ad61-5a79-418e-a1b9-a4ac9ae5176b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::span[5]</value>
+      <webElementGuid>87238656-93cf-4326-b6d5-9dbf4bedeac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grades'])[1]/preceding::span[7]</value>
+      <webElementGuid>24203835-892f-4f4a-9c88-651db66e6e4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/a/span</value>
+      <webElementGuid>d72d3d4c-ae2a-4064-bc90-bff68f1f3b3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '210607 Mazen Walid Fikri Hussien Mohamed2M' or . = '210607 Mazen Walid Fikri Hussien Mohamed2M')]</value>
+      <webElementGuid>384b7b28-fcaa-4ced-9344-f1f8dcb71f7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
